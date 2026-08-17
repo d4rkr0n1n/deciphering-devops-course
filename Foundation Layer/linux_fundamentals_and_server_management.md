@@ -1,8 +1,9 @@
 # Linux Fundamentals and Server Management
 
 ## Table of Contents
-- Commands
-- Important Directories
+- [Commands](https://github.com/d4rkr0n1n/deciphering-devops-course/tree/main#deciphering-devops-course)
+- [Important Directories](https://github.com/d4rkr0n1n/deciphering-devops-course/tree/main#deciphering-devops-course)
+- [TL;DR](https://github.com/d4rkr0n1n/deciphering-devops-course/tree/main#deciphering-devops-course)
 
 ## Commands
 - `cd` - Change Directory
